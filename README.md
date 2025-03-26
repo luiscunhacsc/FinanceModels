@@ -17,20 +17,29 @@ These apps are designed to support students, educators, and professionals in und
 
 ## 🧠 Models currently included
 
-| Category                        | Models                                                                 |
-|--------------------------------|------------------------------------------------------------------------|
-| **Arbitrage & Derivatives**    | - Understanding Arbitrage: A Practical Guide  
-                                 - Understanding Put-Call Parity  
-                                 - Binomial Options Pricing Model Playground  
-                                 - Monte Carlo Simulation for Option Pricing  
-                                 - Understanding Greeks in the Black-Scholes Model |
-| **Risk & Volatility**          | - VaR & ES Playground: Measuring Downside Risk  
-                                 - GARCH(1,1) Volatility Forecasting Playground |
-| **Portfolio Theory**           | - Capital Asset Pricing Model (CAPM)  
-                                 - Fama–French 3-Factor Model Playground |
-| **Interest Rate Models**       | - Hull–White Interest Rate Model Explorer |
-| **Stochastic Processes**       | - Elementary Stochastic Calculus Explorer |
-| **Capital Optimization**       | - Kelly Criterion: Maximizing Capital Growth |
+### **Arbitrage & Derivatives**
+- Understanding Arbitrage: A Practical Guide  
+- Understanding Put-Call Parity  
+- Binomial Options Pricing Model Playground  
+- Monte Carlo Simulation for Option Pricing  
+- Understanding Greeks in the Black-Scholes Model  
+
+### **Risk & Volatility**
+- VaR & ES Playground: Measuring Downside Risk  
+- GARCH(1,1) Volatility Forecasting Playground  
+
+### **Portfolio Theory**
+- Capital Asset Pricing Model (CAPM)  
+- Fama–French 3-Factor Model Playground  
+
+### **Interest Rate Models**
+- Hull–White Interest Rate Model Explorer  
+
+### **Stochastic Processes**
+- Elementary Stochastic Calculus Explorer  
+
+### **Capital Optimization**
+- Kelly Criterion: Maximizing Capital Growth  
 
 ---
 
